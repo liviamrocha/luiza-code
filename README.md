@@ -1,6 +1,10 @@
 <h1 align="center"> Luiza &lt;Code> 💙 - Anotações de Aula </h1>
 
-<a href="https://ibb.co/56RJrf7"><img src="https://i.ibb.co/W62RkYT/Capa-Formulario-Luiza-Code-5edi-o-01.png" alt="luiza-banner" width="100%" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+
+
+<a href="https://ibb.co/cTYnfWj"><img src="https://i.ibb.co/h8YzQGS/Capa-Formulario-Luiza-Code-5edi-o-01.png" alt="luiza-banner" border="0"></a>
+<br><br/>
+
 
 ## Sumário
 
