@@ -8,7 +8,7 @@
 
 ## Sumário
 
-- Módulo 1 - Introdução e Lógica de Programação
+- Python 1 
   - Variáveis e entrada de dados
     - Variáveis 
         - Nome de variáveis
