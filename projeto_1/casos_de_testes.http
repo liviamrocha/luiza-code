@@ -1,0 +1,50 @@
+#######################################
+############  usuário  ################
+#######################################
+
+# Criar usuário
+POST http://127.0.0.1:8000/usuario HTTP/1.1
+content-type: application/json
+
+{
+    "id": 1,
+    "nome": "teste",
+    "email": "teste@gmail.com",
+    "senha": "1234"
+}
+
+#######################################
+# Pegar usuário
+GET http://127.0.0.1:8000/usuario?id=1 HTTP/1.1
+content-type: application/json
+
+
+#######################################
+############  endereço  ###############
+#######################################
+
+# Criar endereço
+POST http://127.0.0.1:8000/endereco/1 HTTP/1.1
+content-type: application/json
+
+{
+    "rua": "Rua Ladrilhada",
+    "cep": "99999-999",
+    "cidade": "São Paulo",
+    "estado": "SP"
+}
+
+#######################################
+############  produto  ################
+#######################################
+
+# Criar produto
+POST http://127.0.0.1:8000/produto HTTP/1.1
+content-type: application/json
+
+{
+    "id": 1,
+    "nome": "Sorvete",
+    "descricao": "Doce gelado",
+    "preco": 9.99
+}
